@@ -1,3 +1,6 @@
+
+# Sort the Array of 0s, 1s and 2s
+
 arr = [2,0,1,1,0]
 n = len(arr)
 count0 = 0
